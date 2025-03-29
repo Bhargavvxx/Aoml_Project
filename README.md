@@ -63,7 +63,7 @@ streamlit run app.py
 - Implementing Explainable AI (Grad-CAM visualization)
 - Adding additional ensemble learning techniques
 
- Contributors
+ **Contributors**
 Bhargav Patil - J014
 Rahul Yanamandra - J047
 Parth Khandagale - J045
